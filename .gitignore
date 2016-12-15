@@ -1,3 +1,4 @@
+*.pgdump
 /bootstrap/compiled.php
 .vagrant
 vendor
