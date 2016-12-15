@@ -1,1 +1,1 @@
-php artisan serve --port=5000
+web: php artisan serve --port=5000
